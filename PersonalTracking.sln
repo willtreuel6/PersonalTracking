@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalTracking", "PersonalTracking\PersonalTracking.csproj", "{B45DCA6C-BFB9-4088-B1E9-B97A82E7AF11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{F1C8971C-AE20-44DD-9701-D832413473C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{11A241F6-F4CE-4555-9BEE-B579B7EE194C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B45DCA6C-BFB9-4088-B1E9-B97A82E7AF11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45DCA6C-BFB9-4088-B1E9-B97A82E7AF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45DCA6C-BFB9-4088-B1E9-B97A82E7AF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45DCA6C-BFB9-4088-B1E9-B97A82E7AF11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C8971C-AE20-44DD-9701-D832413473C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C8971C-AE20-44DD-9701-D832413473C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C8971C-AE20-44DD-9701-D832413473C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C8971C-AE20-44DD-9701-D832413473C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A241F6-F4CE-4555-9BEE-B579B7EE194C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A241F6-F4CE-4555-9BEE-B579B7EE194C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A241F6-F4CE-4555-9BEE-B579B7EE194C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A241F6-F4CE-4555-9BEE-B579B7EE194C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02D15FD6-4E47-40F7-84FB-ED6FE64F40F7}
+	EndGlobalSection
+EndGlobal
